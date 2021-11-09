@@ -25,7 +25,7 @@ int main(void) {
 			hrs = 0;
 		}
 
-		Sleep(8);
+		Sleep(1000);
 		system("cls");
 		printf("PRIMITIVE TIMER ON C LANG\n\n");
 		printf("\n\nHOUR:MINUTE:SECOND");
